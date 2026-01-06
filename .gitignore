@@ -2,3 +2,6 @@
 !/.gitignore
 !/scripts/
 !/scripts/**
+
+# Ignore caches
+scripts/__pycache__/
